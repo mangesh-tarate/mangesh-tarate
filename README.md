@@ -98,7 +98,7 @@ Additional product development experience includes:
 - Smart Gauge Meter using Nuvoton MCU
 - Blood Pressure Monitor
 - Fare Meter firmware migration
-- Diamond Polishing Machine motion-control electronics
+- Automatic Stone Polishing Machine motion-control electronics
 
 *Project descriptions summarize my professional engineering experience. Public repositories and source code will be added where available and permitted.*
 
