@@ -139,6 +139,6 @@ English · Hindi · Marathi
 
 - **LinkedIn:** [Mangesh Tarate](https://www.linkedin.com/in/mangesh-tarate-46170a1b8)
 - **Email:** [mangesh.tarate014@gmail.com](mailto:mangesh.tarate014@gmail.com)
-- **GitHub:** [github.com/mangeshtarate013](https://github.com/mangeshtarate013)
+- **GitHub:** [github.com/mangesh-tarate](https://github.com/mangesh-tarate)
 
 *Building reliable embedded systems that connect hardware, firmware, and the real world.*
