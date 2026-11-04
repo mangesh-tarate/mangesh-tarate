@@ -33,6 +33,9 @@ Passionate about developing reliable embedded products by integrating hardware, 
 ### IoT & Wireless Connectivity
 `Wi-Fi` `LoRa` `GSM/4G` `SIM800` `Quectel EC20/EC25/EC200` `IoT Gateways` `Wireless Sensor Networks`
 
+### Cloud & IoT Platforms
+` AWS IoT Core`
+
 ### Hardware & PCB Design
 `PCB Design` `KiCad` `Circuit Design` `Sensor Integration` `Oscilloscope` `Logic Analyzer` `JTAG`
 
