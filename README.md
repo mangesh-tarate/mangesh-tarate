@@ -1,4 +1,4 @@
-# Hi, I'm Mangesh Tarate 👋
+# Hi, I'm Mangesh Tarate 
 
 ### Firmware Engineer | Embedded Systems | Industrial IoT | Robotics
 
@@ -6,13 +6,13 @@ Firmware Engineer with **4.11 years of experience** in Embedded Systems, IoT, Me
 
 Passionate about developing reliable embedded products by integrating hardware, firmware, wireless connectivity, and industrial automation.
 
-- 🔭 Currently working on **IoT monitoring systems, energy monitoring, and wireless sensor solutions**
-- ⚙️ Experienced with **STM32, ESP32, PIC, Renesas, TI, and Microchip platforms**
-- 📡 Industrial communication: **Modbus RTU/TCP, HART, MQTT, RS485, RS232, and LoRa**
-- 🤖 Experience with **6-axis robotic arms and motion-control systems**
-- 🏥 Experience in **medical devices and industrial instrumentation**
-- 🚀 Developing personal projects in **industrial automation and remote motor control**
-- 📍 Gurugram, Haryana, India
+-  Currently working on **IoT monitoring systems, energy monitoring, and wireless sensor solutions**
+-  Experienced with **STM32, ESP32, PIC, Renesas, TI, and Microchip platforms**
+-  Industrial communication: **Modbus RTU/TCP, HART, MQTT, RS485, RS232, and LoRa**
+-  Experience with **6-axis robotic arms and motion-control systems**
+-  Experience in **medical devices and industrial instrumentation**
+-  Developing personal projects in **industrial automation and remote motor control**
+-  Gurugram, Haryana, India
 
 ---
 
@@ -44,7 +44,7 @@ Passionate about developing reliable embedded products by integrating hardware, 
 
 ---
 
-## 🚀 Featured Personal Projects
+##  Featured Personal Projects
 
 ### 1. Remote Control DOL Auto Switch
 
