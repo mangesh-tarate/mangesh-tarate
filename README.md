@@ -1,6 +1,6 @@
 # Hi, I'm Mangesh Tarate 
 
-### Firmware Engineer | Embedded Systems | Industrial IoT | Robotics
+### Senior Firmware Engineer | Embedded Systems | Industrial IoT | Robotics
 
 Firmware Engineer with **4.11 years of experience** in Embedded Systems, IoT, Medical Devices, Industrial Automation, and Robotics. Experienced in developing RTOS-based firmware, embedded hardware, PCB designs, IoT gateways, and industrial communication solutions.
 
