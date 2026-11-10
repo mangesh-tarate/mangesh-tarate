@@ -12,7 +12,7 @@ Passionate about developing reliable embedded products by integrating hardware, 
 -  Experience with **6-axis robotic arms and motion-control systems**
 -  Experience in **medical devices and industrial instrumentation**
 -  Developing personal projects in **industrial automation and remote motor control**
--  Gurugram, Haryana, India
+-  Delhi NCR, India
 
 ---
 
