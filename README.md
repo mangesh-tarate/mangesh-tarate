@@ -49,26 +49,19 @@ Passionate about developing reliable embedded products by integrating hardware, 
 
 ##  Featured Personal Projects
 
-### 1. Remote Control DOL Auto Switch
+### 1. Industrial LoRa-Based Modbus RTU Monitoring System
+Industrial wireless monitoring architecture integrating Modbus RTU devices through RS485 field nodes, LoRa communication and an MQTT-enabled gateway.
 
-**Industrial Automation | Agricultural Applications | Embedded Product Development**
+**Technologies:** Embedded C | LoRa | SX1262 | Modbus RTU | RS485 | MQTT
 
-Designed and developed a remote-control auto starter switch for agricultural and industrial motor applications.
+[View Repository](https://github.com/mangesh-tarate/industrial-lora-modbus-gateway)
 
-**Key Features:**
-- Remote motor START/STOP operation.
-- Dedicated handheld remote controller.
-- Motor operating status indication.
-- Fault and system health indication.
-- Delay status indication.
-- Integration with existing DOL motor starter systems.
-- Working hardware prototype.
+### 2. Remote Control DOL Auto Switch
+LoRa-based remote motor starter control system designed for industrial and agricultural applications.
 
-**Project Status:** Working hardware prototype developed.
+**Technologies:** Embedded C | STM32 | LoRa | Relay Control | OLED
 
-**Note:** Internal hardware architecture, firmware, circuit diagrams, and implementation details are proprietary and intentionally not disclosed.
-
-🔗 **[View Project Portfolio](https://github.com/mangesh-tarate/remote-control-dol-auto-switch)**
+[View Repository](https://github.com/mangesh-tarate/remote-control-dol-auto-switch)
 
 ---
 
