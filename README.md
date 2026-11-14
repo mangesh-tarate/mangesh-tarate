@@ -67,55 +67,55 @@ LoRa-based remote motor starter control system designed for industrial and agric
 
 ## 💼 Professional Project Experience
 
-### 2. EnSense — Multi-Parameter Monitoring System
+### 3. EnSense — Multi-Parameter Monitoring System
 Developed an IoT-based monitoring solution for multiple parameters, including occupancy, temperature, pressure, gas, and fuel level.
 
 **Technologies:** Embedded C/C++, ESP32, STM32, wireless communication, MQTT, IoT sensors.
 
-### 3. EnPro — Three-Phase Energy Monitoring
+### 4. EnPro — Three-Phase Energy Monitoring
 Worked on firmware development for a three-phase energy monitoring system for real-time energy measurement and monitoring.
 
 **Technologies:** Embedded C/C++, microcontrollers, energy monitoring, IoT.
 
-### 4. EnMate — Single-Phase Energy Monitoring
+### 5. EnMate — Single-Phase Energy Monitoring
 Worked on an embedded energy monitoring solution for single-phase electrical applications.
 
-### 5. HART-to-Modbus Gateway
+### 6. HART-to-Modbus Gateway
 Worked on an industrial gateway solution for interfacing HART transmitters and field instruments with Modbus RTU-based monitoring and control systems.
 
 **Technologies:** HART, Modbus RTU, UART, RS485, embedded firmware.
 
-### 6. Smart Alert Gateway
+### 7. Smart Alert Gateway
 Designed and developed cellular-connected smart alert gateway hardware and firmware supporting digital inputs, digital outputs, analog inputs, and SMS, email, and voice notifications.
 
 **Technologies:** PIC24, Quectel cellular modules, GSM/4G, Embedded C, industrial I/O.
 
-### 7. Six-Axis Robotic Arm & Motion Control
+### . Six-Axis Robotic Arm & Motion Control
 Designed firmware and custom electronics for a six-axis robotic arm, including multi-axis motion control, safety interlocks, and system-level protections.
 
 **Technologies:** Trinamic TMCM motion controllers, Python, PyTrinamic, KiCad.
 
-### 8. STM32 Function Generator
+### 9. STM32 Function Generator
 Developed a function generator from hardware design through firmware implementation using an STM32 microcontroller and AD9833 waveform generator.
 
 **Technologies:** STM32, AD9833, Embedded C, PCB design.
 
-### 9. IoT-Based Battery Management System Monitor
+### 10. IoT-Based Battery Management System Monitor
 Developed an ESP32-based battery monitoring solution with real-time data visualization using Blynk.
 
 **Technologies:** ESP32, sensors, IoT, Blynk.
 
-### 10. Cable Fault Locator
+### 11. Cable Fault Locator
 Developed a Linux-based graphical application to visualize ADC data as waveforms and implement waveform filtering for cable fault analysis.
 
 **Technologies:** Embedded systems, ADC, Linux, Qt Creator, signal visualization.
 
-### 11. Air Flow Meter
+### 12. Air Flow Meter
 Developed firmware and hardware for an air flow measurement system using a differential pressure sensor.
 
 **Technologies:** TI MSP430, MPX5700DP, Embedded C, sensor interfacing.
 
-### 12. Other Embedded Products
+### 13. Other Embedded Products
 
 Additional product development experience includes:
 
